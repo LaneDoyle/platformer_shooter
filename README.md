@@ -7,7 +7,7 @@ Simple Platformer game made using a _Heartbeast_ Youtube tutorial.
   - Create Sprites
 - Add Enemies 
   - Learn How to Code Enemies
--Add Animations
+- Add Animations
 
 ### Doing:
 - Collisions
