@@ -7,7 +7,7 @@ if hinput != 0 {
 	hspeed_ = clamp(hspeed_, -max_hspeed_, max_hspeed_)
 }
 else {
-	hspeed_ = lerp(hspeed_, 0, .3)
+	hspeed_ = lerp(hspeed_, 0, friction_)
 }
 
 if place_meeting(x+hspeed_, y, o_solid) {
