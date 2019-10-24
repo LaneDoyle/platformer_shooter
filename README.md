@@ -3,8 +3,6 @@
 Simple Platformer game made using a _Heartbeast_ Youtube tutorial. 
 
 ### To Do:
-- Add Sprites
-  - Create Sprites
 - Add Enemies 
   - Learn How to Code Enemies
 - Add Animations
@@ -15,5 +13,6 @@ Simple Platformer game made using a _Heartbeast_ Youtube tutorial.
 - Learning GameMaker Language
 
 ### Done:
-- N/A
+- Add Sprites
+  - Create Sprites
 
